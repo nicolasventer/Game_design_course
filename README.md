@@ -10,4 +10,4 @@ To launch a WebGL build, you need **Firefox**.
 --
 
 This git contains the projects I've done and the certificates delivered.
-It also contains the report and the presentation done for UE validation.
+It also contains the report and the presentation done for school.
