@@ -1,4 +1,4 @@
-#MOOC of game design
+# MOOC of game design
 
 [Build a Game Using Unity 3D](https://www.coursera.org/specializations/game-development)  
 This is a MOOC from the Michigan State University taught by Brian Winn and Casey O'Donnell.  
