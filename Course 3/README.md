@@ -1,0 +1,8 @@
+![.](MOOC's book_13.jpg)
+![.](MOOC's book_14.jpg)
+![.](MOOC's book_15.jpg)
+![.](MOOC's book_16.jpg)
+![.](MOOC's book_17.jpg)
+![.](MOOC's book_18.jpg)
+![.](MOOC's book_19.jpg)
+![.](MOOC's book_20.jpg)
