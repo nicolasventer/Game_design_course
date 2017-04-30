@@ -15,7 +15,7 @@ The other inputs are inside the About menu.
 
 Download links :
 
-[WebGL](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nicolasventer/Game_design_course/tree/master/Course%204/Spartry'n'die/WebGL)
+[WebGL](https://github.com/nicolasventer/Game_design_course/raw/master/Course%204/Spartry'n'die/Spartry'n'dieWebGL.zip)
 
 [Windows](https://github.com/nicolasventer/Game_design_course/raw/master/Course%204/Spartry'n'die/Spartry'n'dieWindows.zip)
 
