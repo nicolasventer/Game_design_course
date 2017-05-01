@@ -10,7 +10,9 @@ To launch a WebGL build, you need **Firefox**.
 --
 
 This git contains the projects I've done and the certificates delivered.
-It also contains a description and a short presentation of the MOOC.
+It also contains a [book](MOOC's%20book.pdf) and a [presentation](MOOC's%20presentation.pdf) of the MOOC.
+
+---
 
 ![MOOC](MOOC's%20book_01.jpg)
 ![MOOC](MOOC's%20book_02.jpg)
