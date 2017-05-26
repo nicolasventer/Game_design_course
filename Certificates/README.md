@@ -1,1 +1,1 @@
-![Certification](Game Design and Development_1.jpg)
+![Certification](Game%20Design%20and%20Development_1.jpg)
